@@ -1,0 +1,5 @@
+# encoding: utf-8
+
+require 'justin/stall'
+Justin::Stall.run ARGV
+
